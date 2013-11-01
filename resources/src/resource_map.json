@@ -1,0 +1,16 @@
+{
+    "media": [
+        {
+            "defName": "FONT_GOTHAM_BOLD_18",
+            "type": "font",
+            "file": "fonts/Gotham-Bold.ttf"
+        },
+        {
+            "defName": "FONT_GOTHAM_LIGHT_18",
+            "type": "font",
+            "file": "fonts/Gotham-Light.ttf"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
